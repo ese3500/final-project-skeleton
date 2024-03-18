@@ -67,23 +67,27 @@ Add your slides to the Final Project Proposal slide deck in the Google Drive.
 
 ## Final Project Report
 
+### 1. Video
+
 [Insert final project video here]
+
+### 2. Images
 
 [Insert final project images here]
 
-### Results
+### 3. Results
 
 What were your results? Namely, what was the final solution/design to your problem?
 
-#### Software Requirements Specification (SRS) Results
+#### 3.1 Software Requirements Specification (SRS) Results
 
 Based on your quantified system performance, comment on how you achieved or fell short of your expected software requirements. You should be quantifying this, using measurement tools to collect data.
 
-#### Hardware Requirements Specification (HRS) Results
+#### 3.2 Hardware Requirements Specification (HRS) Results
 
 Based on your quantified system performance, comment on how you achieved or fell short of your expected hardware requirements. You should be quantifying this, using measurement tools to collect data.
 
-### Conclusion
+### 4. Conclusion
 
 Reflect on your project. Some questions to consider: What did you learn from it? What went well? What accomplishments are you proud of? What did you learn/gain from this experience? Did you have to change your approach? What could have been done differently? Did you encounter obstacles that you didn’t anticipate? What could be a next step for this project?
 
