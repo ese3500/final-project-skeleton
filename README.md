@@ -28,11 +28,11 @@ Formulate key software requirements here.
 
 Formulate key hardware requirements here.
 
-#### 6. MVP Demo
+### 6. MVP Demo
 
 What do you expect to accomplish by the first milestone?
 
-#### 7. Final Demo
+### 7. Final Demo
 
 What do you expect to achieve by the final demonstration or after milestone 1?
 
