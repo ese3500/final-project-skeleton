@@ -53,12 +53,13 @@ It is recommended that your project be something that you can take pride in. Oft
 
 This section is to help guide your progress over the next few weeks. Feel free to adjust and edit the table below to something that would be useful to you. Really think about what you want to accomplish by the first milestone.
 
-| **Week**            | **Task** | **Assigned To**  |
+| **Week**            | **Task** | **Assigned To**    |
 |----------           |--------- |------------------- |
 | Week 1: 3/24 - 3/31 |          |                    |
 | Week 2: 4/1 - 4/7   |          |                    |
 | Week 3: 4/8 - 4/14  |          |                    |
 | Week 4: 4/15 - 4/21 |          |                    |
+| Week 5: 4/22 - 4/26 |          |                    |
 
 ### 12. Proposal Presentation
 
