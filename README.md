@@ -8,48 +8,48 @@
 
 ## Final Project Proposal
 
-### Abstract
+### 1. Abstract
 
 In a few sentences, describe your final project. This abstract will be used as the description in the evaluation survey forms.
 
-### Motivation
+### 2. Motivation
 
 What is the problem that you are trying to solve? Why is this project interesting? What is the intended purpose?
 
-### Goals
+### 3. Goals
 
 These are to help guide and direct your progress.
 
-### Software Requirements Specification (SRS)
+### 4. Software Requirements Specification (SRS)
 
 Formulate key software requirements here.
 
-### Hardware Requirements Specification (HRS)
+### 5. Hardware Requirements Specification (HRS)
 
 Formulate key hardware requirements here.
 
-#### MVP Demo
+#### 6. MVP Demo
 
 What do you expect to accomplish by the first milestone?
 
-#### Final Demo
+#### 7. Final Demo
 
 What do you expect to achieve by the final demonstration or after milestone 1?
 
-### Methodology
+### 8. Methodology
 
 What is your approach to the problem?
 
-### Components
+### 9. Components
 
 What major components do you need and why?
 
-### Evaluation
+### 10. Evaluation
 
 What is your metric for evaluating how well your product/solution solves the problem? Think critically on this section. Having a boolean metric such as “it works” is not very useful. This is akin to making a speaker and if it emits sound, albeit however terrible and ear wrenching, declare this a success.
 It is recommended that your project be something that you can take pride in. Oftentimes in interviews, you will be asked to talk about projects you have worked on.
 
-### Timeline
+### 11. Timeline
 
 This section is to help guide your progress over the next few weeks. Feel free to adjust and edit the table below to something that would be useful to you. Really think about what you want to accomplish by the first milestone.
 
@@ -60,7 +60,7 @@ This section is to help guide your progress over the next few weeks. Feel free t
 | Week 3: 4/8 - 4/14  |          |                    |
 | Week 4: 4/15 - 4/21 |          |                    |
 
-### Proposal Presentation
+### 12. Proposal Presentation
 
 Add your slides to the Final Project Proposal slide deck in the Google Drive.
 
