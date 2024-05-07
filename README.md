@@ -20,29 +20,37 @@ What is the problem that you are trying to solve? Why is this project interestin
 
 These are to help guide and direct your progress.
 
-### 4. Software Requirements Specification (SRS)
+### 4. System Block Diagram
 
-Formulate key software requirements here.
+These are to help guide and direct your progress.
 
-### 5. Hardware Requirements Specification (HRS)
+### 5. Design Sketches
 
-Formulate key hardware requirements here.
+These are to help guide and direct your progress.
 
-### 6. MVP Demo
+### 6. Software Requirements Specification (SRS)
+
+Formulate key software requirements here. They must be testable! See the Final Project Manual Appendix for examples.
+
+### 7. Hardware Requirements Specification (HRS)
+
+Formulate key software requirements here. They must be testable! See the Final Project Manual Appendix for examples.
+
+### 8. Components
+
+What major components do you need and why? Try to be as specific as possible. Your Hardware & Software Requirements Specifications should inform your component choices. Add links to components.
+
+### 9. MVP Demo
 
 What do you expect to accomplish by the first milestone?
 
-### 7. Final Demo
+### 10. Final Demo
 
 What do you expect to achieve by the final demonstration or after milestone 1?
 
-### 8. Methodology
+### 10. Methodology
 
 What is your approach to the problem?
-
-### 9. Components
-
-What major components do you need and why?
 
 ### 10. Evaluation
 
